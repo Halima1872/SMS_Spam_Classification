@@ -1,5 +1,5 @@
 # SMS_Spam_Classification
-Dataset from : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Dataset from : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset <br>
 This repository contains the code for an SMS Spam Classification project. The goal of this project is to classify SMS messages into spam or non-spam (ham) using TF-IDF vectorization and the Multinomial Naive Bayes algorithm. The project follows the following steps:
 
 1. Data Cleaning
